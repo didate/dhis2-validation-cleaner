@@ -1,0 +1,31 @@
+# Binary files
+dhis2-cleaner
+
+# Go build artifacts
+*.exe
+*.out
+*.test
+
+# Logs and debug files
+*.log
+*.bak
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+
+# Go dependencies
+vendor/
+bin/
+pkg/
+coverage.out
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
